@@ -1,0 +1,100 @@
+.überschrifft {    
+    font-size: xx-large;
+    font-family: 'Alumni Sans Inline One', cursive;
+    display:block;
+    margin-left: 10px;
+    
+}
+
+  .gründe {
+    max-width: 400px ;
+    line-height: 30px;
+    color:rgb(102, 100, 100);
+    font-style:inherit;
+    border: solid rgb(190, 186, 186) 1px;
+    margin-top:20px;
+    border-radius:4px;
+    display:inline-block;
+    margin-left:25px;
+  }
+  .sonstistsiripiricool {
+    margin-top:50px;
+    display:inline-block;
+    margin-left:30px;
+    font-size:x-large;
+  }
+  .first-reason {
+    
+    margin-left:20px;
+    font-style:Monaco;
+    display:inline-block;
+
+  }
+  .first-reason-div {
+    border: solid rgb(190, 186, 186) 1px;
+    margin-top:20px;
+    border-radius:4px;
+    margin-left: 20px;
+    margin-right:20px;
+    margin-top:20px;
+    margin-bottom:20px;
+
+    
+  }
+  .siri {
+    display:block;
+    color:grey;
+    font-size: smaller;
+    margin-left:137px;
+    font-family: 'Uchen', serif;
+    font-size:x-small;
+    
+  }
+  .sorry {
+    display:block;
+    margin-left:30px;
+    font-family: 'Uchen', serif;
+    font-size:x-large;
+  }
+  .creator {
+    display:inline-block;
+    margin-left:30px;
+  }
+
+
+  
+ .second-image {
+    display:block;
+    margin-left:20px;
+    
+ }
+ .material-symbols-outlined {
+    margin-left:20px;
+    display:inline-block;
+    vertical-align:left;
+    margin-bottom:0px;
+ }
+ .lolaliked {
+    font-size:x-small;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:grey;
+    display:inline-block;
+    vertical-align:right;
+    margin-bottom: 0px;
+    
+}
+.pech {
+    font-size:x-small;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(101, 108, 144);
+    display:block; 
+    margin-left:30px;
+    margin-top:4px;
+}
+ 
+ 
+
+
+
+
+  
